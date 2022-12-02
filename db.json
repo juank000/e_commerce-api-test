@@ -1,0 +1,170 @@
+{
+    "productsC1": [
+      {
+        "name": "product 1",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_1/Imagen1.png?raw=true",
+        "price": "50",
+        "id": 1,
+        "section": "Categoría 1",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 2",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_1/Imagen2.png?raw=true",
+        "price": "400",
+        "id": 2,
+        "section": "Categoría 1",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 3",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_1/Imagen3.png?raw=true",
+        "price": "10000",
+        "id": 3,
+        "section": "Categoría 1",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 4",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_1/Imagen4.png?raw=true",
+        "price": "900",
+        "id": 4,
+        "section": "Categoría 1",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 5",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_1/Imagen5.png?raw=true",
+        "price": "55",
+        "id": 5,
+        "section": "Categoría 1",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      }
+    ],
+    "productsC2": [
+      {
+        "name": "product 6",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_2/Imagen10.png?raw=true",
+        "price": "5500",
+        "id": 6,
+        "section": "Categoría 2",
+        "description": "Lorem ipsum dolor sit, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 7",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_2/Imagen11.png?raw=true",
+        "price": "80",
+        "id": 7,
+        "section": "Categoría 2",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 8",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_2/Imagen12.png?raw=true",
+        "price": "3900",
+        "id": 8,
+        "section": "Categoría 2",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 9",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_2/Imagen13.png?raw=true",
+        "price": "990",
+        "id": 9,
+        "section": "Categoría 2",
+        "description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 10",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_2/Imagen14.png?raw=true",
+        "price": "12000",
+        "id": 10,
+        "section": "Categoría 2",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes"
+      }
+    ],
+    "productsC3": [
+      {
+        "name": "product 11",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_3/Imagen16.png?raw=true",
+        "price": "550",
+        "id": 11,
+        "section": "Categoría 3",
+        "description": "Lorem ipsum dolor sit, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 12",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_3/Imagen17.png?raw=true",
+        "price": "8600",
+        "id": 12,
+        "section": "Categoría 3",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 13",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_3/Imagen18.png?raw=true",
+        "price": "7250",
+        "id": 13,
+        "section": "Categoría 3",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 14",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_3/Imagen19.png?raw=true",
+        "price": "49",
+        "id": 14,
+        "section": "Categoría 3",
+        "description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 15",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_3/Imagen20.png?raw=true",
+        "price": "820",
+        "id": 15,
+        "section": "Categoría 3",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      }
+    ],
+    "productsC4": [
+      {
+        "name": "product 16",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_4/Imagen22.png?raw=true",
+        "price": "9500",
+        "id": 16,
+        "section": "Categoría 4",
+        "description": "Lorem ipsum dolor sit, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 17",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_4/Imagen23.png?raw=true",
+        "price": "4000",
+        "id": 17,
+        "section": "Categoría 4",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 18",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_4/Imagen24.png?raw=true",
+        "price": "600",
+        "id": 18,
+        "section": "Categoría 4",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 19",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_4/Imagen25.png?raw=true",
+        "price": "39",
+        "id": 19,
+        "section": "Categoría 4",
+        "description": "Lorem ipsum dolor sit amet consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque p dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      },
+      {
+        "name": "product 20",
+        "imgURL": "https://github.com/juank000/bakery-products/blob/master/bakery_4/Imagen26.png?raw=true",
+        "price": "5100",
+        "id": 20,
+        "section": "Categoría 4",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec."
+      }
+    ]
+  }
